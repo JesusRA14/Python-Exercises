@@ -1,3 +1,6 @@
+
+#todo For most information: https://docs.python.org/es/3/library/turtle.html#special-turtle-methods
+
 import turtle
 screen = turtle.Screen()
 screen.setup(550, 600, startx=0, starty=100)
